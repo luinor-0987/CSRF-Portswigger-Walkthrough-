@@ -1,1 +1,1 @@
-This .html file contains walkthrough: CSRF: Portswigger
+Walkthrough: CSRF: Portswigger
